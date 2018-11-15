@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Converter.cs](./CS/RibbonSample/Converter.cs) (VB: [Converter.vb](./VB/RibbonSample/Converter.vb))
+* **[MainWindow.xaml](./CS/RibbonSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/RibbonSample/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/RibbonSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/RibbonSample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to add a horizontal offset to the RibbonControl page headers
 
 
